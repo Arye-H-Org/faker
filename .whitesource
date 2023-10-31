@@ -5,6 +5,9 @@
     "projectToken": "",
     "baseBranches": []
   },
+  "skipScanningStage": {
+    "preStep": ["ruby"]
+  },
   "scanSettingsSAST": {
     "enableScan": false,
     "scanPullRequests": false,
@@ -38,5 +41,4 @@
            "addMendIdentifier": false
        }
    }
-
 }
