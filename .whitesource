@@ -6,6 +6,7 @@
     "baseBranches": []
   },
   "skipScanningStage": {
+    "config": ["ruby"],
     "preStep": ["ruby"]
   },
   "scanSettingsSAST": {
